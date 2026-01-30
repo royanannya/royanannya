@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @royanannya
-I’m an award-winning Principal-level Data Scientist and Architect with 8+ years of experience designing and deploying transformative and enterprise-grade AI systems that bridge the gap between business/customer needs and deep tech.
+👋 Hi, I’m @royanannya
 
+I’m an award-winning Principal-level Data Scientist and Architect with 8+ years of experience designing and deploying transformative and enterprise-grade AI systems that bridge the gap between business/customer needs and deep tech.
 💼 My work lies at the intersection of LLM architecture, NLP, GenAI systems, MLOps, and scalable ML solutions --where cutting-edge research meets real-world scale across BFSI, Travel, Healthcare, and Retail domains, developer advocacy and community.
 
 🔹 Core Strengths:
@@ -21,4 +21,4 @@ I’m an award-winning Principal-level Data Scientist and Architect with 8+ year
 
 Let’s connect if you’re building or hiring for the next generation of enterprise and ethical AI / ML / Gen AI / Agentic AI solutions.
 
-- 📫 How to reach me ... Drop a mail to royanannya1995@gmail.com :)
+📫 How to reach me ... Drop a mail to royanannya1995@gmail.com :)
